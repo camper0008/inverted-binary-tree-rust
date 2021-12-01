@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "maksim-projekt"
+name = "rust-inverted-binary-tree"
 version = "0.1.0"
